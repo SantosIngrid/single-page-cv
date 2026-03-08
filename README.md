@@ -4,7 +4,7 @@ Solution for the **Single Page CV** project from roadmap.sh.
 
 ## Project URL
 
-https://santosingrid.github.io/single-page-cv/
+[View the project](https://santosingrid.github.io/single-page-cv/)
 
 ## Repository
 
