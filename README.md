@@ -1,6 +1,6 @@
 # Single Page CV
 
-This project is a solution for the **Single Page CV** challenge from roadmap.sh.
+Solution for the **Single Page CV** project from roadmap.sh.
 
 ## Project URL
 
@@ -12,9 +12,4 @@ https://github.com/SantosIngrid/single-page-cv
 
 ## Technologies
 
-* HTML5
-
-## Author
-
-Ingrid Elias
-GitHub: https://github.com/SantosIngrid
+* HTML
